@@ -18,6 +18,7 @@ p {
 div.sticky{
   position:sticky;
   background-color:red;
+  top:10px;
 }
 div.abs {
   position:absolute;
